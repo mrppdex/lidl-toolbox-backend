@@ -1,0 +1,27 @@
+{
+  "name": "node-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^15.1.1",
+    "bcrypt": "^3.0.6",
+    "config": "^3.2.2",
+    "cors": "^2.8.5",
+    "debug": "^4.1.1",
+    "eslint": "^6.2.2",
+    "express": "^4.17.1",
+    "joi-objectid": "^2.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.6.11",
+    "mongoose-simple-random": "^0.4.1",
+    "winston": "^3.2.1",
+    "winston-mongodb": "^5.0.0"
+  }
+}
